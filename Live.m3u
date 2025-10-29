@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5878e482f20ee0dba47efe5ddef77a72-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Cavaliers vs Knicks
+
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/03e78a6ebc7218c0e054460d58d4533a-thumbnail.jpg" group-title="PPVLand - Baseball Hub",Toronto Blue Jays vs. Los Angeles Dodgers
+
 #EXTVLCOPT:http-origin=https://ppv.to
+
 #EXTVLCOPT:http-referrer=https://ppv.to/
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+
 https://gg.poocloud.in/dodgers/tracks-v1a1/mono.ts.m3u8
