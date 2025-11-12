@@ -1,11 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/03e78a6ebc7218c0e054460d58d4533a-thumbnail.jpg" group-title="PPVLand - Baseball Hub",Toronto Blue Jays vs. Los Angeles Dodgers
+#EXTINF:-1 tvg-id="" tvg-logo="https://ppv.to/assets/thumb/0b18d58f0c9d578f468c3d6bbc7ca3f7-thumbnail.jpg" group-title="NBA", Denver Nuggets vs. Sacramento Kings
 
-#EXTVLCOPT:http-origin=https://ppv.to
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
-#EXTVLCOPT:http-referrer=https://ppv.to/
+#KODIPROP:inputstream.adaptive.license_key=0022edc2b3a9409d03b868b933ca5135:b233d4bbc758486930944fa190f668e4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-
-https://gg.poocloud.in/dodgers/tracks-v1a1/mono.ts.m3u8
+https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(2507371-208784-247caf86050)/master_2hr.mpd
